@@ -1,0 +1,3 @@
+my name is sneha 
+and my course is BCA
+github means a web basad platform for software developers to host git repositories
